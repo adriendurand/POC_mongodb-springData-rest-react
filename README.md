@@ -1,4 +1,4 @@
-# POC Mongo DB with spring boot + spring boot web + spring data
+# POC Mongo DB with spring boot + spring boot web + spring data + react js
 
 ## Installation
 
